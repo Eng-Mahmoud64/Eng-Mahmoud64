@@ -14,4 +14,4 @@ Engineering student specializing in autonomous robotic systems, embedded control
 - Designing and fabricating a commercial-grade discrete stepper motor driver.
 
 ---
-📫 **Contact:** [[Your Official LinkedIn URL](https://www.linkedin.com/in/mahmoud-bakkar-959770359/)] | [Your Formal Email]
+📫 **Contact:** [[LinkeIn](https://www.linkedin.com/in/mahmoud-bakkar-959770359/)] | [Your Formal Email]
